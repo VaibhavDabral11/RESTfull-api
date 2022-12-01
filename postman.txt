@@ -1,0 +1,10 @@
+**********endpoint**********                                    ***********Work**************
+http://localhost:3000/users                 ===    (get)             read all users.
+http://localhost:3000/oneuser               ===     get)         read oneuser.
+http://localhost:3000/autocreate            ===                 create without input.
+http://localhost:3000/createmany            ===                 create many without input.
+http://localhost:3000/autocreateall         ===                 create one my one with input.
+http://localhost:3000/updateone             ===                 update without input.
+http://localhost:3000/update                ===                 update with input.
+http://localhost:3000/deleteout             ===                 delete without input.
+http://localhost:3000/deleteone             ===                 delete with input.
